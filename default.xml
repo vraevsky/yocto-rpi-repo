@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
-	<default revision="master" />
+	<default revision="rocko" />
 	<remote fetch="git://git.yoctoproject.org" name="yocto" />
 	<remote fetch="git://git.openembedded.org" name="oe" />
 
